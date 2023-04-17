@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1739
     height: 1333
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 132
+  controlID: 86
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 410
     height: 1283
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 37
+  controlID: 87
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 109
+  controlID: 88
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,37 +317,37 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/_Course Library/_Prefabs/Art
+    - Assets/_Course Library/Audio/FX
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/_Course Library/_Prefabs/Art
+  - Assets/_Course Library/Audio/FX
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\user\Github\Create-with-VR_2020LTSBBB\Create-with-VR_2020LTS\VR
     Room Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 90500000
-    m_LastClickedID: 20624
-    m_ExpandedIDs: 000000003a5000003c5000003e50000040500000425000004450000046500000485000004a5000004c5000005450000000ca9a3b
+    scrollPos: {x: 0, y: 360}
+    m_SelectedIDs: 685c0000
+    m_LastClickedID: 23656
+    m_ExpandedIDs: 00000000a0500000a2500000a4500000a6500000a8500000aa500000ac500000ae500000b0500000b2500000ba500000fa50000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Fruit
-      m_OriginalName: Fruit
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 20648
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
@@ -361,7 +361,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003a5000003c5000003e50000040500000425000004450000046500000485000004a5000004c500000
+    m_ExpandedIDs: 00000000a0500000a2500000a4500000a6500000a8500000aa500000ac500000ae500000b0500000b2500000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -388,22 +388,22 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000c44c0000884d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: SFX_Machine_Powerup
+      m_OriginalName: SFX_Machine_Powerup
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 23706
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
@@ -482,23 +482,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 8afaffff
-      m_LastClickedID: -1398
-      m_ExpandedIDs: caf4ffff8afaffff4cfbffff104d0000264d0000384d00006e4d0000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 46faffff8efaffff4cfbffff184d0000324d0000444d00004a4d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Hook_Modern
-        m_OriginalName: Hook_Modern
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -2870
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -544,9 +544,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.9016428, y: -0.28712678, z: 1.2486749}
+    m_Target: {x: 5.822864, y: 8.767751, z: 2.0250275}
     speed: 2
-    m_Value: {x: -1.9016428, y: -0.28712678, z: 1.2486749}
+    m_Value: {x: 5.822864, y: 8.767751, z: 2.0250275}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -593,20 +593,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.1984564, y: -0.801446, z: 0.3997664, w: 0.3983282}
+    m_Target: {x: 0.16844909, y: -0.8238966, z: 0.31643334, w: 0.43917185}
     speed: 2
-    m_Value: {x: 0.19843861, y: -0.8013742, z: 0.39973056, w: 0.3982925}
+    m_Value: {x: 0.16843371, y: -0.82382137, z: 0.31640446, w: 0.43913177}
   m_Size:
-    m_Target: 1.8819776
+    m_Target: 1.5547609
     speed: 2
-    m_Value: 1.8819776
+    m_Value: 1.5547609
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1.2403798
-    m_SpeedNormalized: 0.6199999
+    m_Speed: 1.9600191
+    m_SpeedNormalized: 0.97999954
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
