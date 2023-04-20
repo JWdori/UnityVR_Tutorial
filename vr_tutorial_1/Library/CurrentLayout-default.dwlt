@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: Game
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 0
 --- !u!114 &2
@@ -45,10 +45,10 @@ MonoBehaviour:
     y: 30
     width: 1739
     height: 1283
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 678, y: 492}
+  m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 17
+  controlID: 37
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 410
     height: 1283
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -150,7 +150,7 @@ MonoBehaviour:
     y: 0
     width: 1739
     height: 1333
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 46
+  controlID: 119
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 47
+  controlID: 120
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,23 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/_Course Library/Audio/FX
+    - Assets/TextMesh Pro/Resources/Fonts & Materials
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/_Course Library/Audio/FX
+  - Assets/TextMesh Pro/Resources/Fonts & Materials
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\user\Github\Create-with-VR_2020LTSBBB\Create-with-VR_2020LTS\VR
-    Room Project
+  m_LastProjectPath: C:\Users\user\Github\Create-with-VR_2020LTSBBB\Create-with-VR_2020LTS\vr_tutorial_1
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 193}
-    m_SelectedIDs: 1e520000
-    m_LastClickedID: 21022
-    m_ExpandedIDs: 00000000d4510000d6510000d8510000da510000dc510000de510000e0510000e2510000e4510000e6510000e85100001c52000000ca9a3b
+    scrollPos: {x: 0, y: 991}
+    m_SelectedIDs: f25e0000
+    m_LastClickedID: 24306
+    m_ExpandedIDs: 0000000000520000025200000452000006520000085200000a5200000c5200000e5200001052000012520000145200001c52000024520000bc540000145f0000165f0000185f00001a5f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -361,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d4510000d6510000d8510000da510000dc510000de510000e0510000e2510000e4510000e6510000e8510000
+    m_ExpandedIDs: 0000000000520000025200000452000006520000085200000a5200000c5200000e520000105200001252000014520000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -389,7 +388,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000c44c0000884d0000
+    m_ExpandedInstanceIDs: c6230000c44c0000884d0000ead3ffffec5e00009a520000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -482,20 +481,20 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: f64c0000
-      m_LastClickedID: 19702
-      m_ExpandedIDs: 4cfbffff184d0000324d0000444d00004a4d00005c4d00007a4d0000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 7062ffff9e69ffff8ea6ffff7ce1ffff76eeffffdaf6ffffe0f7ffff8efaffff4cfbfffff4ffffff184d0000324d0000524d0000584d00007a4d0000b84d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Tennis_Ball_Green
-        m_OriginalName: Tennis_Ball_Green
+        m_Name: XR Rig
+        m_OriginalName: XR Rig
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 19702
+        m_UserData: 19800
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -544,9 +543,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.42210034, y: 0.11552495, z: 2.6160433}
+    m_Target: {x: -0.5921631, y: 1, z: 3.8066206}
     speed: 2
-    m_Value: {x: -0.42210034, y: 0.11552495, z: 2.6160433}
+    m_Value: {x: -0.5921631, y: 1, z: 3.8066206}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -593,9 +592,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.19265504, y: 0.6273594, z: -0.16375968, w: 0.73667014}
+    m_Target: {x: -0.17040148, y: -0.7380491, z: 0.20222816, w: -0.62095374}
     speed: 2
-    m_Value: {x: 0.19263619, y: 0.627298, z: -0.16374366, w: 0.7365981}
+    m_Value: {x: -0.17038164, y: -0.73796314, z: 0.20220461, w: -0.62088144}
   m_Size:
     m_Target: 0.8660254
     speed: 2
@@ -605,8 +604,8 @@ MonoBehaviour:
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1.9600191
-    m_SpeedNormalized: 0.97999954
+    m_Speed: 1.5802104
+    m_SpeedNormalized: 0.7900002
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
