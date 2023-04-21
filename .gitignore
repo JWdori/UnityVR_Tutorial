@@ -8,9 +8,9 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
-/Assets/
+/vr_tutorial_1/Assets/
 /[Uu]ser[Ss]ettings/
-/Assets/
+
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
